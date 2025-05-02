@@ -1,0 +1,16 @@
+
+/* css style */
+
+.element1 {
+    color: white;
+    background-color: black;
+}
+
+.element2 {
+    background-color: yellow;
+}
+
+button {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+}

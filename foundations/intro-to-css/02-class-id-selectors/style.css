@@ -1,0 +1,26 @@
+
+/* style.css */
+
+.elementOdd {
+    background-color: pink;
+    font-family: "Verdana", "DejaVu", "sans-serif";
+
+}
+
+.elementEven {
+    font-weight: bold;
+}
+
+#blueFont {
+    color: blue;
+    font-size: 32px;
+}
+
+#greenBG {
+    background-color: #7FFF00;
+    font-size: 28px;
+}
+
+#increaseFont {
+    font-size: 28px;
+}
